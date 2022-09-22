@@ -7,3 +7,4 @@ Includes:
 - React Icons for easy to use icon library
 - React Hook Form for form handling/validation
 - SWR for data fetching
+- Headless UI for accessible UI components (modals, menus, etc)
